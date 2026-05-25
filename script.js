@@ -5,7 +5,7 @@ function ex01(){
     while(continuar == true){
 
         let numero = Number(prompt("Digite um número"));
-
+e
         soma = soma + numero;
 
         console.log(soma);
@@ -28,4 +28,16 @@ function ex02(){
     }
 
     console.log("Lançamento realizado!");
+}
+
+function ex03(){
+    let ganho_mensal = 0;
+    let gasto_mensal = 0;
+    let ganho_anual = 0;
+    let gasto_anual = 0;
+    let continuar = true;
+    
+    while(continuar == true){
+        
+    }
 }
